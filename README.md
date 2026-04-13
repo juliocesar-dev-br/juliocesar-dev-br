@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Fala aí, eu sou o Julio!
 
-<!--
-**juliocesar-dev-br/juliocesar-dev-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Focado em desenvolvimento e programação de jogos
+🚀 Em evolução constante como desenvolvedor
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![GitMon](https://gitmon.xyz/api/embed/juliocesar-dev-br.svg?style=character)](https://gitmon.xyz/juliocesar-dev-br)
+
+
+---
+
+## 🧠 Atualmente estudando
+
+* 🐍 Python (APIs, automações e análise de dados)
+* ⚙️ C++ (performance e sistemas)
+* 🎮 C# com Unity (desenvolvimento de jogos)
+* 📐 Lógica de programação e estrutura de dados
+
+---
+
+## 🔥 Projetos em destaque
+
+* 📊 **Exercícios (C#)**
+  [Link para o projeto](https://github.com/juliocesar-dev-br/Csharp-repo)
+
+* 🐦 **Exercícios (Python)**
+  [Link para o projeto](https://github.com/juliocesar-dev-br/Python-Exercises)
+
+* 📺 **Exercícios (C++)**
+  [Link para o projeto](https://github.com/juliocesar-dev-br/C-Exercises)
+
+---
+
+## 🚀 Objetivo
+
+Me tornar um desenvolvedor capaz de criar sistemas e jogos completos,
+dominando desde lógica até integração com APIs e performance.
+
+---
+
+## 📈 Em constante evolução
+
+Atualmente focado em:
+
+* Construção de projetos práticos
+* Publicação no GitHub
+* Evolução diária em programação
+
+---
+
+## 💬 Vamos trocar ideia?
+
+Sempre aberto para aprender, colaborar e evoluir 🚀
