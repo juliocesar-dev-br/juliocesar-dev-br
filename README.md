@@ -6,7 +6,13 @@
 
 
 ---
-[![GitMon](https://gitmon.xyz/api/embed/juliocesar-dev-br.svg?style=character)](https://gitmon.xyz/juliocesar-dev-br)
+
+<div align="center">
+     [![GitMon](https://gitmon.xyz/api/embed/juliocesar-dev-br.svg?style=character)](https://gitmon.xyz/juliocesar-dev-br)
+  <img src="https://gitmon.xyz/api/embed/juliocesar-dev-br.svg?style=character"/>
+</div>
+
+
 
 
 ---
