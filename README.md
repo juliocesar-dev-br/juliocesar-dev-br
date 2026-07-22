@@ -16,9 +16,9 @@
 
 ## 🔥 Projetos em destaque
 
-* 🛠️ **Fundamentos de C#:** [Link para o projeto](seu-link-aqui) — Desafios de lógica, POO e tratamento de exceções.
-* 🐍 **Fundamentos de Python:** [Link para o projeto](seu-link-aqui) — Scripts práticos e automações de rotina.
-* ⚙️ **Fundamentos de C++:** [Link para o projeto](seu-link-aqui) — Exercícios focados em algoritmos e performance.
+* 🛠️ **Fundamentos de C#:** [Link para o projeto](https://github.com/juliocesar-dev-br/csharp-fundamentals) — Desafios de lógica, POO e tratamento de exceções.
+* 🐍 **Fundamentos de Python:** [Link para o projeto](https://github.com/juliocesar-dev-br/python-fundamentals) — Scripts práticos e automações de rotina.
+* ⚙️ **Fundamentos de C++:** [Link para o projeto](https://github.com/juliocesar-dev-br/cpp-fundamentals) — Exercícios focados em algoritmos e performance.
 
 ---
 
