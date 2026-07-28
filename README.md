@@ -1,12 +1,11 @@
 # 👋 Fala aí, eu sou o Júlio!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas | 🛡️ Focado em Engenharia de QA, Automação de Testes com C# e Desenvolvimento de Jogos | 🚀 Em evolução constante como desenvolvedor.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas | 🚀 Em evolução constante como desenvolvedor.
 
 ---
 
 ## 🧠 Atualmente estudando
 
-* 🧪 **QA & Automação de Testes:** Fundamentos de QA, escrita de casos de teste e asserções.
 * ⚡ **C# e .NET:** Programação Orientada a Objetos avançada e estruturas de dados.
 * 🕹️ **C# com Unity:** Arquitetura de scripts e desenvolvimento de mecânicas de jogos.
 * 🐍 **Python:** Construção de scripts para automações e análise de dados.
@@ -24,15 +23,12 @@
 
 ## 🎯 Objetivo
 
-Tornar-me um Engenheiro de QA capaz de arquitetar automações de testes robustas utilizando C#, garantindo a qualidade, a segurança e a estabilidade de sistemas corporativos e jogos complexos.
-
 ---
 
 ## 📈 Em constante evolução
 
 Atualmente focado em:
 * Construção de projetos práticos aplicados a cenários reais.
-* Engenharia de testes e cobertura de código.
 * Evolução diária em lógica e algoritmos com o livro *Entendendo Algoritmos*.
 
 ---
