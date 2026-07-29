@@ -5,12 +5,7 @@
 ---
 
 ## 🧠 Atualmente estudando
-
 * ⚡ **C# e .NET:** Programação Orientada a Objetos avançada e estruturas de dados.
-* 🕹️ **C# com Unity:** Arquitetura de scripts e desenvolvimento de mecânicas de jogos.
-* 🐍 **Python:** Construção de scripts para automações e análise de dados.
-* ⚙️ **C++:** Lógica de programação, algoritmos e desempenho de sistemas.
-
 ---
 
 ## 🔥 Projetos em destaque
